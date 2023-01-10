@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "e93027c0a1a7cc26",
+    "type": "split",
+    "children": [
+      {
+        "id": "a28a9b5b43ffdf3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e7e02c78810f9de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-01-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c422528bd4a40fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6390f130f9489607",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "454e70b59b83d6d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aacd928db5c5f37c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "140ad634ff86b2cf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd56f69b05eb4cdf",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a057ce826b8f64b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a355c4a3614d2de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "171288775cbfb7d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/2023-01-10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c926b30a8e0c2a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/2023-01-10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a713820655a6e98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b0fcfb62fe7e9f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/2023-01-10.md"
+              }
+            }
+          },
+          {
+            "id": "c51dc71e6d768f63",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "0e7e02c78810f9de",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Journal/2023-01-10.md",
+    "Templates/Jurnal Daily Template.md",
+    "Journal/2023-01-04.md",
+    "Journal/2023-01-03.md",
+    "Default Template.md",
+    "Journal/2023-01-02.md",
+    "Journal/2022-11-02.md",
+    "Untitled.md",
+    "Journal/2022-11-03.md"
+  ]
+}
