@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-01-10.md",
+                "file": "Journal/2023-01-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-01-10.md",
+                "file": "Journal/2023-01-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-01-10.md",
+                "file": "Journal/2023-01-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-01-10.md"
+                "file": "Journal/2023-01-11.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "0e7e02c78810f9de",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Untitled.canvas",
+    "Journal/2023-01-11.md",
     "Journal/2023-01-10.md",
+    "Untitled 1.md",
     "Templates/Jurnal Daily Template.md",
     "Journal/2023-01-04.md",
     "Journal/2023-01-03.md",
     "Default Template.md",
     "Journal/2023-01-02.md",
-    "Journal/2022-11-02.md",
-    "Untitled.md",
-    "Journal/2022-11-03.md"
+    "Journal/2022-11-02.md"
   ]
 }
